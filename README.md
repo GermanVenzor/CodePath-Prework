@@ -9,7 +9,7 @@
 
 `TODO://` 
 
-<!-- <img src="https://github.com/GermanVenzor/CodePath-Prework/blob/main/CodePath_Prework.gif" width=200><br>
+<!-- <img src="https://github.com/GermanVenzor/CodePath-Prework/blob/main/CodePath_Prework.gif" width=200><br> -->
 
 ### Required Features
 
